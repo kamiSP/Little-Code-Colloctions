@@ -1,0 +1,8 @@
+D:\CODE\DxLib\C#\Typing Game\Typing Game\bin\Debug\Typing Game.exe.config
+D:\CODE\DxLib\C#\Typing Game\Typing Game\bin\Debug\Typing Game.exe
+D:\CODE\DxLib\C#\Typing Game\Typing Game\bin\Debug\Typing Game.pdb
+D:\CODE\DxLib\C#\Typing Game\Typing Game\obj\Debug\Typing Game.csprojResolveAssemblyReference.cache
+D:\CODE\DxLib\C#\Typing Game\Typing Game\obj\Debug\Typing_Game.Properties.Resources.resources
+D:\CODE\DxLib\C#\Typing Game\Typing Game\obj\Debug\Typing Game.csproj.GenerateResource.Cache
+D:\CODE\DxLib\C#\Typing Game\Typing Game\obj\Debug\Typing Game.exe
+D:\CODE\DxLib\C#\Typing Game\Typing Game\obj\Debug\Typing Game.pdb
